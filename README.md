@@ -10,7 +10,7 @@ Baixe ou faça um fork do repo para começar!
 Baixe ou bifurque o repositório
 
 ```
-git clone https://github.com/NourEldienHE/Discord-bot-website-template.git
+git clone https://github.com/TheoSant0s/site-para-bot-discord.git
 ```
 
 Abra index.html e comece a usar o site
