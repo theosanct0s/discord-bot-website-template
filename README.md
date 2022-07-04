@@ -1,30 +1,30 @@
-# site-para-bot-discord
-Apenas um site incrível com bom design de interface do usuário para novos bots do Discord, projetado com Bootstrap e now-ui-kit.
+# site-to-bot-discord
+Just an awesome site with good UI design for new Discord bots, designed with Bootstrap and now-ui-kit.
 
-## Começando
+## Starting
 
-Baixe ou faça um fork do repo para começar!
+Download or fork the repo to get started!
 
-### Instalando
+### Installing
 
-Baixe ou bifurque o repositório
+Download or fork the repository
 
 ```
 git clone https://github.com/TheoSant0s/site-para-bot-discord.git
 ```
 
-Abra index.html e comece a usar o site
+Open index.html and start using the site
 
-## Construído com
+## Built with
 
-* [Bootstrap](https://getbootstrap.com/) - A estrutura da web usada
-* [Now-ui-kit](https://demos.creative-tim.com/now-ui-kit/index.html) - Gestão de Dependências
+* [Bootstrap](https://getbootstrap.com/) - The web framework used
+* [Now-ui-kit](https://demos.creative-tim.com/now-ui-kit/index.html) - Dependency Management
 
-## Autores
+## Authors
 
-[Théo Santos](https://github.com/TheoSant0s)
+[Theo S.](https://github.com/theosanct0s)
 
 
 ## Final
 
-Tenha um bom uso ^^
+Have a good use ^^
