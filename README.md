@@ -10,7 +10,7 @@ Download or fork the repo to get started!
 Download or fork the repository
 
 ```
-git clone https://github.com/theosanct0s/site-para-bot-discord.git
+git clone https://github.com/theosanct0s/discord-bot-website-template.git
 ```
 
 Open index.html and start using the site
