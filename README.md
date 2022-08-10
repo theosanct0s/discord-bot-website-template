@@ -22,7 +22,7 @@ Open index.html and start using the site
 
 ## Authors
 
-[Theo S.](https://github.com/theosanct0s)
+[verscode](https://github.com/theosanct0s)
 
 
 ## Final
